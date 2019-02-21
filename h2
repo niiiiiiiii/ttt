@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<h2>HTML Image</h2>
-<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+<h2>test Image</h2>
+<img src="https://s-ec.bstatic.com/images/hotel/max1024x768/106/106943243.jpg" alt="Trulli" width="500" height="333">
 
 </body>
 </html>
