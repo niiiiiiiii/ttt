@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2>海~~~~~~~~</h2>
+<h2>sea~~~~~~~~</h2>
 <img src="https://s-ec.bstatic.com/images/hotel/max1024x768/106/106943243.jpg" alt="Trulli" width="500" height="333">
 
 
@@ -13,25 +13,25 @@
     <th>Firstname</th>
     <th>Lastname</th> 
     <th>Age</th>
-    <th>喜歡海嗎</th>
+    <th>sea</th>
   </tr>
   <tr>
     <td>  Jill</td>
     <td>  Smith</td>
     <td>  50</td>
-    <th>喜歡</th>
+    <th>like</th>
   </tr>
   <tr>
     <td>Eve</td>
     <td>Jackson</td>
     <td>94</td>
-    <th>喜歡</th>
+    <th>like</th>
   </tr>
   <tr>
     <td>John</td>
     <td>Doe</td>
     <td>80</td>
-    <th>不喜歡</th>
+    <th>hate</th>
   </tr>
  
 </table>
