@@ -1,7 +1,7 @@
 <html>
 <body background="https://g.udn.com.tw/upfiles/B_AM/AmyTim/PSN_PHOTO/602/f_12030602_1.jpg?" >
+<p id="myP" style="font:italic bold 60px Georgia,serif;color:Tomato">Amy and Tim in four season</p>
 
-<p style="color:Tomato;font-size:50px; "> Amy and Tim in four season</p>
 <style>
 table {
   font-family: arial, sans-serif;
@@ -21,7 +21,7 @@ tr:nth-child(even) {
 </style>
 <table style="width:100%">
   <tr>
-    <th>Spring</th>
+    <th> Spring</th>
     <th><img src="https://g.udn.com.tw/upfiles/B_AM/AmyTim/PSN_PHOTO/622/f_11761622_1.jpg"  width="300" height="150"></th> 
   </tr>
   <tr>
