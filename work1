@@ -1,6 +1,7 @@
 <html>
 <body background="https://g.udn.com.tw/upfiles/B_AM/AmyTim/PSN_PHOTO/602/f_12030602_1.jpg?" >
-<p style="color:Tomato;font-size:50px; "> Amy and Tim in four season~~~~~~~~~~~~~</p>
+
+<p style="color:Tomato;font-size:50px; "> Amy and Tim in four season</p>
 <style>
 table {
   font-family: arial, sans-serif;
@@ -9,13 +10,13 @@ table {
 }
 
 td, th {
-  border: 1px solid #800000;
+  border: 10px solid #00FF99;
   text-align: left;
   padding: 25px;
 }
 
 tr:nth-child(even) {
-  background-color: #99ccff;
+  background-color: #FFFFCC;
 }
 </style>
 <table style="width:100%">
@@ -34,7 +35,7 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>Winter</td>
-    <td><img src="https://i.pinimg.com/originals/0f/7c/0d/0f7c0dfde04d3d1c4176bd850a2f3996.jpg"  width="200" height="200"></td>
+    <td><img src="https://i.pinimg.com/originals/0f/7c/0d/0f7c0dfde04d3d1c4176bd850a2f3996.jpg"  width="200" height="160"></td>
   
   </tr>
 </table>
