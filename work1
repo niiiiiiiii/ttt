@@ -19,22 +19,22 @@ tr:nth-child(even) {
   background-color: #FFFFCC;
 }
 </style>
-<table style="width:100%">
+<table style="width:60%">
   <tr>
-    <th> a</th>
+    <th> Spring</th>
     <th><img src="https://g.udn.com.tw/upfiles/B_AM/AmyTim/PSN_PHOTO/622/f_11761622_1.jpg"  width="300" height="150"></th> 
   </tr>
   <tr>
-    <td>b</td>
+    <td>Summer</td>
     <td><img src="https://g.udn.com.tw/upfiles/B_AM/AmyTim/PSN_PHOTO/587/f_11247587_1.jpg"  width="300" height="150"></td>
   </tr>
   <tr>
-    <td>c</td>
+    <td>Autumn</td>
     <td><img src="https://g.udn.com.tw/upfiles/B_AM/AmyTim/PSN_PHOTO/645/f_11323645_1.jpg"  width="300" height="150"></td>
   
   </tr>
   <tr>
-    <td>d</td>
+    <td>Winter</td>
     <td><img src="https://i.pinimg.com/originals/0f/7c/0d/0f7c0dfde04d3d1c4176bd850a2f3996.jpg"  width="200" height="160"></td>
   
   </tr>
