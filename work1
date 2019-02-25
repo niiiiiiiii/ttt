@@ -21,20 +21,20 @@ tr:nth-child(even) {
 </style>
 <table style="width:100%">
   <tr>
-    <th> Spring</th>
+    <th> a</th>
     <th><img src="https://g.udn.com.tw/upfiles/B_AM/AmyTim/PSN_PHOTO/622/f_11761622_1.jpg"  width="300" height="150"></th> 
   </tr>
   <tr>
-    <td>Summer</td>
+    <td>b</td>
     <td><img src="https://g.udn.com.tw/upfiles/B_AM/AmyTim/PSN_PHOTO/587/f_11247587_1.jpg"  width="300" height="150"></td>
   </tr>
   <tr>
-    <td>Autumn</td>
+    <td>c</td>
     <td><img src="https://g.udn.com.tw/upfiles/B_AM/AmyTim/PSN_PHOTO/645/f_11323645_1.jpg"  width="300" height="150"></td>
   
   </tr>
   <tr>
-    <td>Winter</td>
+    <td>d</td>
     <td><img src="https://i.pinimg.com/originals/0f/7c/0d/0f7c0dfde04d3d1c4176bd850a2f3996.jpg"  width="200" height="160"></td>
   
   </tr>
